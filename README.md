@@ -42,14 +42,14 @@ Please feel free to pull requests or open an issue to add papers.
 * **[NAACL-19]** [Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus.](https://www.aclweb.org/anthology/N19-1320) Hongyu Gong, Suma Bhat, Lingfei Wu, JinJun Xiong and Wen-mei Hwu.
 * **[NAACL-19]** [Adversarial Decomposition of Text Representation.](https://www.aclweb.org/anthology/N19-1088) Alexey Romanov, Anna Rumshisky, Anna Rogers and David Donahue. [[code]](https://github.com/text-machine-lab/adversarial_decomposition)
 * **[NAACL-19]** [Neural Text Style Transfer via Denoising and Reranking.](https://www.aclweb.org/anthology/W19-2309) Joseph Lee, Ziang Xie, Cindy Wang, Max Drach, Dan Jurafsky and Andrew Ng.
-* **[IJCAI-19]** Utilizing Non-Parallel Text for Style Transfer by Making Partial Comparisons. Di Yin, Shujian Huang, Xin-Yu Dai and Jiajun Chen.
-* **[IJCAI-19]** A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer. Fuli Luo, Peng Li, Jie Zhou, Pengcheng Yang, Baobao Chang, Xu Sun, Zhifang Sui.
-* **[IJCAI-19]** Mask and Infill: Applying Masked Language Model for Sentiment Transfer. Xing Wu, Tao Zhang, Liangjun Zang, Jizhong Han and Songlin Hu.
-* **[ACL-19]** Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation. Ning Dai, Jianze Liang, Xipeng Qiu and Xuanjing Huang.
-* **[ACL-19]** A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer. Chen Wu, Xuancheng Ren, Fuli Luo and Xu Sun.
-* **[ACL-19]** Towards Unsupervised Fine-grained Sentiment Transfer. Fuli Luo, Peng Li, Pengcheng Yang, Jie Zhou, Yutong Tan, Baobao Chang, Zhifang Sui and Xu Sun.
+* **[IJCAI-19]** [Utilizing Non-Parallel Text for Style Transfer by Making Partial Comparisons.](https://www.ijcai.org/proceedings/2019/0747.pdf) Di Yin, Shujian Huang, Xin-Yu Dai and Jiajun Chen.
+* **[IJCAI-19]** [A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer.](https://www.ijcai.org/proceedings/2019/0711.pdf) Fuli Luo, Peng Li, Jie Zhou, Pengcheng Yang, Baobao Chang, Xu Sun, Zhifang Sui.
+* **[IJCAI-19]** [Mask and Infill: Applying Masked Language Model for Sentiment Transfer.](https://www.ijcai.org/proceedings/2019/0732.pdf) Xing Wu, Tao Zhang, Liangjun Zang, Jizhong Han and Songlin Hu.
+* **[ACL-19]** [Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation.](https://www.aclweb.org/anthology/P19-1601) Ning Dai, Jianze Liang, Xipeng Qiu and Xuanjing Huang.
+* **[ACL-19]** [A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer.](https://www.aclweb.org/anthology/P19-1482) Chen Wu, Xuancheng Ren, Fuli Luo and Xu Sun.
+* **[ACL-19]** [Towards Unsupervised Fine-grained Sentiment Transfer.](https://www.aclweb.org/anthology/P19-1194) Fuli Luo, Peng Li, Pengcheng Yang, Jie Zhou, Yutong Tan, Baobao Chang, Zhifang Sui and Xu Sun.
 * **[ACL-19]** [Disentangled Representation Learning for Non-Parallel Text Style Transfer.](https://arxiv.org/abs/1808.04339)  Vineet John, Lili Mou, Hareesh Bahuleyan and Olga Vechtomova.  [[code]](https://github.com/vineetjohn/linguistic-style-transfer) 
-* **[ACL-19]** Curate and Generate: A Corpus and Method for Joint Control of Semantics and Style in Neural NLG. Shereen Oraby, Vrindavan Harrison, Abteen Ebrahimi and Marilyn Walker.
+* **[ACL-19]** [Curate and Generate: A Corpus and Method for Joint Control of Semantics and Style in Neural NLG.](https://www.aclweb.org/anthology/P19-1596) Shereen Oraby, Vrindavan Harrison, Abteen Ebrahimi and Marilyn Walker.
 
 ### Related Applications
 
