@@ -53,6 +53,7 @@ Please feel free to pull requests or open an issue to add papers.
 * **[EMNLP-19]** [Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer.](https://arxiv.org/pdf/1908.09368.pdf) Akhilesh Sudhakar, Bhargav Upadhyay, Arjun Maheswaran. [[code]](https://github.com/agaralabs/transformer-drg-style-transfer)
 * **[EMNLP-19]** [Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites.](https://arxiv.org/pdf/1908.06809.pdf) Alexey Tikhonov, Viacheslav Shibaev, Aleksander Nagaev, Aigul Nugmanova and Ivan P. Yamshchikov. [[code]](https://github.com/VAShibaev/text_style_transfer)
 * **[EMNLP-19]** [Unsupervised Text Attribute Transfer via Iterative Matching and Translation.](https://arxiv.org/pdf/1901.11333.pdf) Zhijing Jin, Di Jin, Jonas Mueller, Nicholas Matthews, Enrico Santus. [[data]](https://github.com/zhijing-jin/IMaT)
+* **[EMNLP-19]** [Semi-supervised Text Style Transfer: Cross Projection in Latent Space](https://arxiv.org/abs/1909.11493) Mingyue Shang, Piji Li, Zhenxin Fu, Lidong Bing, Dongyan Zhao, Shuming Shi, Rui Yan. [[data]](https://drive.google.com/file/d/15TxvHgd_SEC-Wy47uI_CgDdiPf_yUw60/view?usp=sharing)
 * **[NeurIPS-19]** [Controllable Unsupervised Text Attribute Transfervia Editing Entangled Latent Representation.](https://arxiv.org/pdf/1905.12926.pdf) Ke Wang, Hang Hua and Xiaojun Wan. [[code]](https://github.com/nrgeup/controllable-text-attribute-transfer)
 
 ### Related Applications
