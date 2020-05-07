@@ -62,6 +62,8 @@ Please feel free to pull requests or open an issue to add papers.
 * **[EMNLP-19-workshop]** [The Daunting Task of Real-World Textual Style Transfer Auto-Evaluation.](https://arxiv.org/abs/1910.03747) Richard Yuanzhe Pang.
 * **[INLG-19]** [Rethinking Text Attribute Transfer: A Lexical Analysis.](https://arxiv.org/abs/1909.12335) Yao Fu, Hao Zhou, Jiaze Chen, Lei Li.
 * **[arXiv-19]** [Revision in Continuous Space: Fine-Grained Control of Text Style Transfer.](https://arxiv.org/abs/1905.12304) Dayiheng Liu, Jie Fu, Yidan Zhang, Chris Pal, Jiancheng Lv. [[code]](https://github.com/FranxYao/pivot_analysis)
+* **[ACL-20]** [Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer.](https://arxiv.org/pdf/2005.02049) Chulun Zhou, Liangyu Chen, Jiachen Liu, Xinyan Xiao, Jinsong Su, Sheng Guo, Hua Wu.
+* **[ACL-20]** [Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen.](https://arxiv.org/pdf/2005.00701) Yixin Cao, Ruihao Shui, Liangming Pan, Min-Yen Kan, Zhiyuan Liu, Tat-Seng Chua.
 
 ### Related Applications
 
