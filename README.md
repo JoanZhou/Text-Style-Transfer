@@ -6,6 +6,10 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Papers, Code and Slides
 
+### Review
+
+* **[arXiv-20]**: Review of text style transfer based on deep learning. [[paper]](https://arxiv.org/ftp/arxiv/papers/2005/2005.02914.pdf)
+
 ### Supervised Text Style Transfer
 
 * **[NAACL-18]** [Dear Sir or Madam, May I Introduce the GYAFC Dataset: Corpus, Benchmarks and Metrics for Formality Style Transfer.](http://www.aclweb.org/anthology/N18-1012)  Sudha Rao and Joel Tetreault. [[data]](https://github.com/raosudha89/GYAFC-corpus) 
